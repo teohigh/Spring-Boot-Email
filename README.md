@@ -4,6 +4,8 @@
 
 Dự án này sử dụng `Spring Boot Email` để thử nghiệm gửi email cho người dùng khi đặt phòng thành công. Dưới đây là một số thông tin bổ sung.
 
+![Email](email.png)
+
 ## Spring Boot Email là gì?
 
 Spring Boot Email là một dự án mẫu minh họa cách gửi email bằng cách sử dụng Spring Boot. Dự án này bao gồm các tính năng như:
